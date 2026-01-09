@@ -159,3 +159,18 @@ padding: 30px;}
     text-align: center;
 }
 
+.btn-eff{
+    background-color: rgb(14, 97, 47);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn-eff:hover{
+    background-color: chocolate;
+    transform: scale(1);
+
+}
